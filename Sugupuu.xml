@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<inimene synd="1926">
+	<nimi>Elizabeth II</nimi>
+	<lapsed>
+		<inimene synd="1948">
+			<nimi>Charles, Prince of Wales</nimi>
+			<lapsed>
+				<inimene synd="1984">
+					<nimi>Prince Harry, Duke of Sussex</nimi>
+				</inimene>
+				<lapsed>
+					<inimene synd="2019">
+						<nimi>Prince Archie of Sussex</nimi>
+					</inimene>
+					<inimene synd="2021">
+						<nimi>Princess Lilibet of Sussex</nimi>
+					</inimene>
+				</lapsed>
+				<inimene synd="1982">
+					<nimi>William, Prince of Wales</nimi>
+				</inimene>
+				<lapsed>
+					<inimene synd="2013">
+						<nimi>Prince George of Wales</nimi>
+					</inimene>
+					<inimene synd="2015">
+						<nimi>Princess Charlotte of Wales</nimi>
+					</inimene>
+					<inimene synd="2018">
+						<nimi>Prince Louis of Wales</nimi>
+					</inimene>
+				</lapsed>
+			</lapsed>
+		</inimene>
+		<inimene synd="1964">
+			<nimi>Prince Edward, Duke of Edinburgh</nimi>
+		</inimene>
+		<inimene synd="1960">
+			<nimi>Prince Andrew, Duke of York</nimi>
+		</inimene>
+		<inimene synd="1950">
+			<nimi>Anne, Princess Royal</nimi>
+		</inimene>
+	</lapsed>
+</inimene>

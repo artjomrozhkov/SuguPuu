@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<inimene synd="1940" residence="Viljandi">
+	<nimi>Emily Davis</nimi>
+	<lapsed>
+		<inimene synd="1980" residence="Tartu">
+			<nimi>Michael Smith</nimi>
+		</inimene>
+		<inimene synd="1970" residence="Tartu">
+			<nimi>Susan Johnson</nimi>
+			<lapsed>
+				<inimene synd="2005" residence="Narva">
+					<nimi>Emma Smith</nimi>
+				</inimene>
+				<inimene synd="2008" residence="Narva">
+					<nimi>Liam Smith</nimi>
+					<lapsed>
+						<inimene synd="2016" residence="Tallinn">
+							<nimi>Sarah Smith</nimi>
+						</inimene>
+						<inimene synd="2018" residence="Tallinn">
+							<nimi>John Smith</nimi>
+						</inimene>
+					</lapsed>
+				</inimene>
+			</lapsed>
+		</inimene>
+	</lapsed>
+</inimene>
